@@ -2,8 +2,7 @@
 
 # Agentic Cybersecurity Pipeline
 
-![Python](https://img.shields.io/badge/Python-3.10-blue.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-1.24.0-red.svg) !
-[LangGraph](https://img.shields.io/badge/LangGraph-0.0.x-green.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg) ![Streamlit](https://img.shields.io/badge/Streamlit-1.24.0-red.svg) ![LangGraph](https://img.shields.io/badge/LangGraph-0.0.x-green.svg)
 
 
 ## Overview
